@@ -20,6 +20,15 @@ This repository contains examples and documentation for migrating from AWS Cloud
 To get started with the migration from CloudFormation to Terraform, follow the examples provided in this repository. Each directory contains example configurations in CloudFormation and their corresponding Terraform configurations.
 
 ### Prerequisites
+
 * Install Terraform
 * Install AWS CLI
 * Set up your AWS credentials
+
+### Additional Resources
+
+* [AWS Cloudformation Documentation](https://docs.aws.amazon.com/cloudformation/)
+* [Terraformer on GitHub](https://github.com/GoogleCloudPlatform/terraformer)
+* [cf-to-tf](https://github.com/humanmade/cf-to-tf)
+
+This README provides an overview of the migration process and examples to get you started. For more details, refer to the additional resources and documentation provided.
