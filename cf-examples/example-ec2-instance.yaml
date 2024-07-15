@@ -3,5 +3,5 @@ Resources:
     Type: AWS::EC2::Instance
     Properties:
       InstanceType: t2.micro
-      ImageId: ami-03772d93fb1879bbe
+      ImageId: ami-03bfe38a90ce33425
       KeyName: ubuntu
