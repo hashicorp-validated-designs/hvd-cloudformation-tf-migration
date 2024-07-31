@@ -9,10 +9,12 @@ This repository contains examples and documentation for migrating from AWS Cloud
 ├── cf-examples/
 │   ├── example-ec2-instance.yaml
 │   ├── example-vpc.yaml
+|   ├── example-dynamo-db.yaml
 │   └── example-iam-role.yaml
 └── tf-examples/
     ├── example-ec2-instance.tf
     ├── example-vpc.tf
+    ├── example-dynamo-db.tf
     └── example-iam-role.tf
 ```
 ## Getting Started
